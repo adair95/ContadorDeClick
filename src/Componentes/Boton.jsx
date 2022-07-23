@@ -1,4 +1,5 @@
 import React from "react";
+import "../HojasDeEstilos/Boton.css";
 
 function Boton({texto, esBotonDeClic, manejarClick}) {
     return(
